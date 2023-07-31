@@ -7,4 +7,10 @@
 <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" alt="fedora badge"/>
 </div>
 
-                                My neovim config, Lets code like a CHAD 🐺 
+                                My neovim config, Lets code like a CHAD 🐺
+
+## Configuration
+
+- [x] Please make sure you have neovim installed.
+
+- [x] Run the following script to configure Neovim: ```shell ./update-configuration.sh ```
