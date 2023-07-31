@@ -13,4 +13,9 @@
 
 - [x] Please make sure you have neovim installed.
 
-- [x] Run the following script to configure Neovim: ```shell ./update-configuration.sh ```
+- [x] Run the following script to configure Neovim:
+
+```shell
+
+ ./update-configuration.sh
+ ```
